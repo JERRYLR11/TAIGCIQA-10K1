@@ -19,8 +19,7 @@ Different from existing AIGC image quality assessment datasets that mainly focus
 
 The dataset is publicly available at:
 
-Hugging Face:
-https://huggingface.co/datasets/Jerrylr/TAIGCIQA-10K
+https://pan.baidu.com/s/1xkASWd5WJxFgJIOhJVgmeQ
 
 
 ## Dataset Statistics
