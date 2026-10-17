@@ -24,7 +24,7 @@ TAIGCIQA-10K was developed to provide a benchmark for assessing the overall qual
 | Dataset name | TAIGCIQA-10K |
 | Task | AIGC image quality assessment for theme-conditioned image sets |
 | Total number of images | 10,796 generated images |
-| Number of image sets | 2,699 sets (10,796 images, with four images per set) |
+| Number of image sets | 2,699 sets |
 | Images per set | 4 |
 | Subject prompts | 343 subject descriptions |
 | Generation models/configurations | 8 |
